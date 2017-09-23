@@ -13,3 +13,12 @@ Scientifically speech recognition is the process of converting an acoustic wavef
 
 ## Published in:
 Computer and Information Technology (ICCIT), 2015 18th International Conference
+
+## Some Important Images
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/1.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/2.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/3.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/4.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/5.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/6.PNG)
+![alt text](https://github.com/ShihabYasin/ISOLATED-BANGLA-WORD-AND-SPEAKER-RECOGNITION/blob/master/7.PNG)
